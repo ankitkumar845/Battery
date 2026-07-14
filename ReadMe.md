@@ -95,11 +95,8 @@ A simple, interactive web application built using **HTML**, **CSS**, **JavaScrip
 
 ## 👤 Author
 **Ankit Kumar**  
-<br>
 💼 Frontend Developer  
-<br>
 📚 Currently learning Data Analyst  
-<br>
 🎓 Roorkee Institute Of Technology (Roorkee)
 
 ---
